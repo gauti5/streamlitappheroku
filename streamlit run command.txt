@@ -1,3 +1,0 @@
-
-
-streamlit run "C:\edu\multiple disease prediction streamlit\multiple disease prediction.py"
